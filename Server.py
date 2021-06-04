@@ -17,9 +17,6 @@ import os
 import time
 import fnmatch
 import imp
-import
-import 
-import 
 from sys import exit
 
 MESSAGE_INPUT = "\033[1m" + "[?] " + "\033[0m"
